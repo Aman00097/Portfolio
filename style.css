@@ -684,7 +684,7 @@ button {
 
 .skill-item .bar .node {
     background-color: var(--main-color);
-    width: 60%;
+    width: 50%;
     height: 18px;
     border-radius: 10px;
 }
